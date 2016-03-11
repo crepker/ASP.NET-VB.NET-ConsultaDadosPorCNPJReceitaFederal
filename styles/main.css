@@ -1,0 +1,16 @@
+﻿        #CNPJ {
+            width: 180px;
+
+        }
+
+        #Captcha {
+            width: 180px;
+
+        }
+
+        #getCNPJCommands {
+
+            float: right;
+            align-self: baseline;
+            
+        }
