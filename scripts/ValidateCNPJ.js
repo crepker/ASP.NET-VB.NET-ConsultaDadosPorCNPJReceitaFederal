@@ -1,3 +1,6 @@
+//Author:  Felipe Crepker Vieira
+//Date:    03/11/2016
+//Lisence: MIT license
 ﻿(function ($) {
     var input, insText, base_Text, _invalidMessage;
     $.ValidCNPJ = false;
